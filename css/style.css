@@ -1,0 +1,45 @@
+.wrapper {
+  font-family: sans-serif;
+}
+.banner {
+  width: 100%;
+}
+.banner img {
+  width: 100%;
+}
+
+.videoblock {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 20px;
+  border-radius: 20px;
+  overflow: hidden;
+}
+.links {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.btn {
+  display: block;
+  text-align: center;
+  padding: 10px 0px;
+  background-color: #3576c3;
+  color: #fff;
+  border-radius: 6px;
+  max-width: 80%;
+  width: 100%;
+  margin: 0 auto;
+  transition: 0.6s all;
+}
+.btn:hover {
+  background-color: #5091df;
+}
+.info-licey {
+  max-width: 80%;
+  margin: 0 auto;
+  margin-top: 20px;
+}
